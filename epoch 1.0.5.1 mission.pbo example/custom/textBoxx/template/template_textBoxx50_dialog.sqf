@@ -4,7 +4,6 @@ Email: dayzpiggd@gmail.com
 Website: http://dayzpiggd.enjin.com
 Donations Accepted via paypal to danpigg@yahoo.com
 */
-// Max Title Size it 47 charcaters
 TextBoxxTitle = "1234567890ABCDEFGHIJ1234567890ABCDEFGHIJ1234567";
 private ["_textBoxxSaveLine"];
 _textBoxxSaveLine = " ";
@@ -108,4 +107,3 @@ a comma.",
 ];
 textBoxx_TEXT_LIST set [(count textBoxx_TEXT_LIST),_textBoxxSaveLine];
 createDialog "DisplaytextBoxx50";
-// For best results leave one blank line at the bootom of the file

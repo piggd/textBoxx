@@ -4,7 +4,6 @@ Email: dayzpiggd@gmail.com
 Website: http://dayzpiggd.enjin.com
 Donations Accepted via paypal to danpigg@yahoo.com
 */
-// Max Title Size it 47 charcaters
 //TextBoxxTitle = "TextBoxx 100 Sample Title Screen to describe your text box";
 private ["_textBoxxSaveLine"];
 _textBoxxSaveLine = " ";
