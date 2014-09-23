@@ -5,7 +5,6 @@ Website: http://dayzpiggd.enjin.com
 Donations Accepted via paypal to danpigg@yahoo.com
 */
 private ["_tmpList","_indx","_textBoxxSaveLine"];
-// Make sure the player UID has been converted before moving forward.
 _tmpList = [];
 // Empties the DialogBox list since it is a global variable.
 textBoxx_TEXT_LIST = [];
