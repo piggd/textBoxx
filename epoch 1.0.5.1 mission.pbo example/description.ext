@@ -149,7 +149,7 @@ class DayZ_loadingScreen
 	};
 };
 //------------------------------------------------------------------------ TxtBoxx Start ---------------------------------------------------------------------------------
-// Uses the same common as Chameleon
+// Uses the same common as Chameleon leave comment out the line below if using Chameleon common.hpp
 #include "custom\textBoxx\dialog\common.hpp"
 #include "custom\textBoxx\dialog\textBoxxGui.hpp"
 //------------------------------------------------------------------------ TxtBoxx End -----------------------------------------------------------------------------------
